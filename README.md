@@ -50,8 +50,10 @@ successful transactions.
 Python – The core language used for backend logic and application development.
 ### • Frameworks & Libraries:
 ⦁	Backend:  Flask, SQLAlchemy – Flask handles routing and business logic, while
-SQLAlchemy is used for database interactions.
+            SQLAlchemy is used for database interactions.
+            
 ⦁	Frontend: Dash – A Python framework used to create interactive web applications.
+
 ⦁	Database: MySQL – Stores user, appointment, and blood bank data efficiently.
 ### •  Email Notifications:
 SMTP – Sends email alerts for appointment confirmations and
